@@ -1,0 +1,7 @@
+.lowercase {text-transform: lowercase; }
+.uppercase { text-transform: uppercase; }
+.capitalize { text-transform: capitalize; }
+
+
+
+hr { margin: 2.5em 0; }
